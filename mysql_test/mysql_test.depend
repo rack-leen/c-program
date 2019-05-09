@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1553762929 source:/home/share/Public/C/Test/mysql/mysql_test/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"/usr/include/mysql/mysql.h"
+
+1552470098 /usr/include/mysql/mysql.h
+	<stdarg.h>
+	<sys/types.h>
+	"mariadb_com.h"
+	"mariadb_version.h"
+	"ma_list.h"
+	"mariadb_ctype.h"
+	"mariadb_stmt.h"
+
+1552470098 /usr/include/mysql/mariadb_com.h
+
+1552470098 /usr/include/mysql/mariadb_version.h
+	<custom_conf.h>
+
+1552470098 /usr/include/mysql/ma_list.h
+
+1552470098 /usr/include/mysql/mariadb_ctype.h
+	<ctype.h>
+
+1552470098 /usr/include/mysql/mariadb_stmt.h
+
