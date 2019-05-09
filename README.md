@@ -2,7 +2,7 @@
 
 + platform : manjaro linux
 + complier : gcc
-+ editor   : vim
++ editor   : vim codeblocks
 + author   : rack
 
 
